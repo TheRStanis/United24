@@ -1,0 +1,113 @@
+@media screen and (max-width: 1700px) {
+    .container {
+        font-size: 11px;
+    }
+    .header__inner {
+        font-size: 10px;
+    }
+    .header__logo {
+    font-size: 35px;
+    }
+    .header__logo__ico {
+        height: 35px;
+    }
+    .intro__title {
+        font-size: 30px;
+    }
+    .intro__suptitle {
+        font-size: 30px;
+    }
+    .img__btn {
+        height: 15px;
+    }
+    .btn1 {
+        font-size: 15px;
+        padding: 5px 15.97px;
+    }
+    .btn2 {
+        font-size: 15px;
+        padding: 5px 14.94px;
+    }
+    .btn3 {
+        font-size: 15px;
+        padding: 5px 26.355px;
+    }
+    .btn4 {
+        font-size: 15px;
+        padding: 5px 11.5px;
+    }
+    .footer {
+        font-size: 11px;
+        height: 70px; 
+        margin-top: -100px;
+    }
+    
+    
+
+}
+
+@media screen and (max-width: 1200px) {
+    
+
+    }
+
+@media screen and (max-width: 768px) {
+    .container {
+        font-size: 10px;
+    }
+    .header__inner {
+        max-width: 360px;
+        font-size: 10px;
+    }
+    .header__logo {
+    font-size: 16px;
+    }
+    .header__logo__ico {
+        height: 16px;
+        padding-top: 5px;
+        padding-left: 23px;
+    }
+    .nav {
+        padding-left: 40px;
+        font-size: 14px;
+    }
+    .nav__link{
+        padding-right: 2px;
+    }
+    .intro__title {
+        font-size: 14px;
+    }
+    .intro__suptitle {
+        font-size: 14px;
+    }
+    .img__btn {
+        height: 10px;
+    }
+    .btn1 {
+        font-size: 10px;
+        padding: 5px 17.47px;
+    }
+    .btn2 {
+        font-size: 10px;
+        padding: 5px 16.74px;
+    }
+    .btn3 {
+        font-size: 10px;
+        padding: 5px 24.355px;
+    }
+    .btn4 {
+        font-size: 10px;
+        padding: 5px 13.95px;
+    }
+    .footer {
+        font-size: 8px;
+        height: 70px; 
+    }
+    .Created {
+        padding-top: 5px;
+        padding-left: 10px;
+    }
+    .Rem {
+        padding-left: 10px;
+    }
+}
